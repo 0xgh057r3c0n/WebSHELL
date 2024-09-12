@@ -3,7 +3,7 @@
 **WebSHELL** is a powerful tool for generating a PHP backdoor and setting up a Netcat listener for reverse shell connections. It automates the process of creating a PHP file that connects back to your machine and starting a Netcat server to catch the incoming shell.
 
 
-![WebSHELL Logo](images/logo.png)
+![WebSHELL Logo](logo.png)
 
 ## Features
 
