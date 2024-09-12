@@ -41,7 +41,7 @@ pip install -r requirements.txt
   \__/\  /  \___  >___  /_______  /\___|_  /_______  /|_______ \_______ \\
        \/       \/    \/        \/       \/        \/         \/       \/
 
-Author: g4ur4v007
+Author: G4UR4V007
 Version: 1.0
 Netcat server is starting with the following command:
 nc -lvnp 4444
