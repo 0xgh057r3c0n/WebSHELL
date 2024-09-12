@@ -57,6 +57,5 @@ nc -lvnp 4444
 - **g4ur4v007**
 
 ## License
-
-This project is licensed under the GPL 3.0 License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU General Public License v3.0 (GPL-3.0). - see the [LICENSE](LICENSE) file for details.
 ```
